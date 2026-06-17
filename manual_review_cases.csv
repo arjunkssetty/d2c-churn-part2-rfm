@@ -1,0 +1,11 @@
+customer_id,segment,monetary,ticket_count,sessions_30d
+CUST00001,Loyal Customer,2955.57,2.0,1
+CUST00002,Potential Loyalist,581.0,1.0,8
+CUST00003,Dormant,649.98,0.0,1
+CUST00004,Dormant,1604.04,0.0,1
+CUST00005,Potential Loyalist,2550.91,1.0,18
+CUST00006,Loyal Customer,3770.16,2.0,2
+CUST00007,Potential Loyalist,719.33,0.0,11
+CUST00008,Potential Loyalist,2747.33,1.0,2
+CUST00009,Potential Loyalist,376.85,0.0,11
+CUST00010,Potential Loyalist,636.8,0.0,13
